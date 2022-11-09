@@ -1,6 +1,6 @@
 # SimpleContract
 
-This project is an example of using foundry to creat PoC code for attacking smart-contract. The project is prepare for Ethernaut series 
+This project is an example of using foundry to creat PoC code for attacking smart-contract.
 
 ## Testing command
 
